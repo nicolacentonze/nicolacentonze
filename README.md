@@ -3,7 +3,7 @@
 I'm **Nicola Centonze**, a **Senior Frontend Developer** and **UI/UX Design enthusiast**. My journey involves building intuitive user interfaces and refining the developer experience for modern web applications.
 
 - 👨‍💻 Currently working on [nuitral](https://github.com/nuitral), a native UI Suite for React and Vue designed to streamline theming and component integration for web applications.
-- 🚀 Exploring the intersections between **development** and **design** to simplify how they interact and become a true **UX Unicorn 🦄**.
+- 🦄 Exploring the intersections between **development** and **design** to simplify how they interact and become a true **UX Unicorn**.
 
 ## 🌐 Let's Connect!
 
